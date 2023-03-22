@@ -60,7 +60,7 @@ body {
   transition: 0.4s;
 }
 .nav .nav-button:hover {
-  background-color: greenyellow;
+  background-color: orange;
 }
 
 #banner-section {
